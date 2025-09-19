@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**Laveezahzargar/Laveezahzargar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Laveezah Zargar 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Code Alchemist | .NET Ninja | Cart Tamer 🛒**
+
+Turning coffee into clean APIs, one migration at a time. I speak fluent C# and occasionally whisper to databases. Building better backends so your frontend can shine.
+
+---
+
+## 🚀 Skills & Technologies
+
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React  
+- **Backend:** Node.js, Express.js, .NET (C#)  
+- **Databases:** MongoDB, MySQL, MSSQL, PostgreSQL  
+
+---
+
+## 🌟 Featured Projects
+
+- [YouTube Clone](https://github.com/Laveezahzargar/YouTube-Project):  
+  A full-featured YouTube clone built with React.
+- [Gemini Clone](https://github.com/Laveezahzargar/Gemini-Clone):  
+  An AI assistant UI inspired by Gemini, crafted in React.
+- [Amazon Clone](https://github.com/Laveezahzargar/Amazon-frontend):  
+  Amazon-inspired ecommerce frontend built using React.
+
+---
+
+## 🎨 Beyond Code
+
+When I'm not coding, I love to express myself through painting, sketching, and photography. Creativity fuels my work, both in development and art.
+
+---
+
+## 📫 Connect with Me
+
+- [Instagram: @laveezahzargar](https://instagram.com/laveezahzargar)
+- [LinkedIn: laveezahzargar](https://linkedin.com/in/laveezahzargar)
+
+---
+
+*Let’s connect and build something amazing together!*
