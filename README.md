@@ -19,7 +19,7 @@ Turning coffee into clean APIs, one migration at a time. I speak fluent C# and o
 ## 🌟 Featured Projects
 
 - [YouTube Clone](https://github.com/Laveezahzargar/YouTube-Project):  
-  A full-featured YouTube clone built with React.
+  A full-featured YouTube clone built with React, NodeJS, ExpressJs and MongoDB.
 - [Gemini Clone](https://github.com/Laveezahzargar/Gemini-Clone):  
   An AI assistant UI inspired by Gemini, crafted in React.
 - [Amazon Clone](https://github.com/Laveezahzargar/Amazon-frontend):  
