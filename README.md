@@ -37,6 +37,7 @@ When I'm not coding, I love to express myself through painting, sketching, and p
 
 - [Instagram: @laveezahzargar](https://www.instagram.com/laveezah__zargar/)
 - [LinkedIn: laveezahzargar](https://www.linkedin.com/in/laveezah-zargar-31553124a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Twitter: laveezahzargar](https://twitter.com/Laveezayh.hussain)
 
 ---
 
